@@ -15,3 +15,5 @@ printf("\n%.0f-%.0f=%.0f", a, b, d);
 printf("\n%.0f*%.0f=%.0f", a, b, e);
 printf("\n%.0f/%.0f=%.2f", a, b, f);
 }
+
+//Calculadora
